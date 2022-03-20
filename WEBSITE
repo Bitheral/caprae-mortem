@@ -1,13 +1,9 @@
 {
   "body":"**Caprae Mortem** is an endless 2D sidescroller, where you need to sacrifice as many goats as possible to the devil himself - Satan.",
-  "gamejam":"ludum-dare",
-  "img_copyright":{
-      "author":"Bitheral",
-      "year":"2018"
-  },
-  "isJam":true,
   "link":"https://ldjam.com/events/ludum-dare/43/caprae-mortem",
   "name":"Caprae Mortem",
   "order":2,
-  "type":"game"
+  "tags": [
+    "Ludum Dare"
+  ]
 }
