@@ -3,6 +3,7 @@
   "link":"https://ldjam.com/events/ludum-dare/43/caprae-mortem",
   "name":"Caprae Mortem",
   "order":2,
+  "image_id": "caprae-mortem",
   "tags": [
     "Ludum Dare",
     "Game"
